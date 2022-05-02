@@ -1,6 +1,10 @@
-# User Github
+# Descrição
+User Github é uma aplicação responsável por trazer os dados de um usuário do github.
+Dados estes que estão configurados para serem publicos.
 
-### Descrição
+Pode-se visualizar os repositorios do usuario, a quantidade de seguidores e quem são estes, quantidade usuarios que o perfil pesquisado segue, e as informações destes, rescpectivamente.
+
+#Instalação
 
 Para rodar a aplicação é necessario ter nodeJS instalado https://nodejs.org/en/
 após clonar o repositorio :
